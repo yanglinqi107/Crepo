@@ -1,0 +1,3 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(test1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  代换密码分析.cpp
+  代换密码分析.vcxproj -> E:\C++projects\Security\代换密码分析\Debug\代换密码分析.exe
